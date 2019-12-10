@@ -1,0 +1,24 @@
+.app-title{
+    background-color: rgb(23, 23, 49);
+    margin-bottom:-20px;
+}
+.title-name{
+    font-size:40px;
+    text-align: center;
+    color:rgb(243, 231, 231);
+}
+
+/* content */
+.add-icon{
+    font-size:30px;
+    padding:1px;
+    /* margin-bottom:12vh; */
+    margin-left:5px;
+}
+.checkbox{
+    font-size:50px;
+    padding:1px;
+    color:red;
+    /* margin-bottom:12vh; */
+    margin-left:5px;
+}
